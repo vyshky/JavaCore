@@ -1,0 +1,8 @@
+Consumer<in T> - Done
+BiConsumer<in T,in T2> - Done
+BinaryOperator<in T> - Done
+Function<in T,out R> - Done
+BiFunction<in T,in U,out R> -Done
+Predicate<in T>
+Supplier<in T>
+UnaryOperator<in T>
